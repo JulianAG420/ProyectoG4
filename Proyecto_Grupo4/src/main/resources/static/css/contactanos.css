@@ -29,6 +29,12 @@ background: linear-gradient(to right, #fffcdc, #d9a7c7);
     text-align: center;
 align-content: center;
    }    
-   
+   form{
+       
+     
+   align-items: stretch;
+    text-align: center;
+align-content: center;
+   }
    
    
