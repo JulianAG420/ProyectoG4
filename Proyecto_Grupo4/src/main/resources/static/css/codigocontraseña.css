@@ -51,4 +51,9 @@ form .txt_field{
     font-size: 16px; 
     
 } 
+a{
+    align-content: center;
+    margin-right: 20px;
+    margin-left: 60px;
+}
 
